@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emr-pvt, a graduate student that is looking for an Internship or a Graduate Program
+- 👋 Hi, I’m @Emr-pvt, a Data engineer intern
 - 👀 I’m interested in Natural Language Processing and all the problematics we can encounter about Data
 - 🌱 I’m currently learning Big data and signal processing at UPM madrid
 - 💞️ I’m looking to collaborate on project based on data
